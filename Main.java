@@ -13,6 +13,6 @@ public class Main {
 int payment =hour*b+1000;
 System.out.println(payment);
 System.out.println("зарплата за год ");
-System.out.println(payment *12);
+System.out.println(payment *12 );
     }
 }
